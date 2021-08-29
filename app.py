@@ -1,1 +1,3 @@
-Hello, ITF-Lab 2018git add app.py!
+# Comments
+message = "Hello, ITF-Lab 2018!!!"
+print(message)
